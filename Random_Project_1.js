@@ -8,3 +8,4 @@ if(distance==null){
     var minutes= (distance/40)*60;
     alert("The amount of time elapsed in minutes: "+minutes+" minutes");
 }
+document.write("Code Ended!");
